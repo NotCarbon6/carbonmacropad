@@ -22,3 +22,8 @@ Others:
 -   KMK Firmware
 -   Macropad_Base.step (Will print myself.)
 -   Macropad_Top.step (Will print myself.)
+
+
+| Case                          | PCB                                | Schematic                               |
+|------------------------------------|------------------------------------|------------------------------------|
+| ![Schematic](https://github.com/NotCarbon6/carbonmacropad/blob/main/Screenshots/Case.png?raw=true) | ![PCB](https://github.com/NotCarbon6/carbonmacropad/blob/main/Screenshots/PCB.png?raw=true) | ![Case](https://github.com/NotCarbon6/carbonmacropad/blob/main/Screenshots/Schematics.png?raw=true)
